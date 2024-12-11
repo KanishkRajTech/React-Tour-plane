@@ -4,7 +4,7 @@ function CardBox({tours, removeTour}){
     return(
         <div className='container'>
             <div>
-                <h1 className='title'>Plane With Love Ones</h1>
+                <h1 className='title'>Tour Plane With Love Ones</h1>
             </div>
             <div className='cards'>
                 {
